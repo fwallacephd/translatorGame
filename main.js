@@ -4,3 +4,7 @@ $(".word-button").on("click", function(){
       //Add a space.
       $("#word-container").append(" ");
   });
+
+$("#word-container").on("click", function(){
+   console.log("pressed button");
+});

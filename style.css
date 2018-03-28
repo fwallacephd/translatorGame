@@ -1,11 +1,13 @@
 /*
  * https://www.dafont.com/klingon-blade.font
  * font-family: 'PT Sans Narrow', sans-serif;
+ * font-family: 'Bowlby One SC', cursive;
+font-family: 'Poller One', cursive;
  */
 
 @font-face {
   font-family: 'klingon';
-  src: url('klingon.TTF')format('truetype');
+  src: url('klingon.TTF') format('truetype');
 }
 
 .logo {
@@ -20,7 +22,7 @@
 }
 
 .title {
-    font-family: 'klingon';
+    font-family: 'klingon', 'Bowlby One SC', 'Poller One';
     background-color: black;
     color: white;
     font-size: 50px;
@@ -55,6 +57,7 @@
 }
 
 .word-button {
+    font-family: 'PT Sans Narrow', sans-serif;
     text-align: center;
     font-size: 25px;
     padding: 10px;
