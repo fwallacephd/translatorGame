@@ -4,7 +4,7 @@
  */
 
 @font-face {
-  font-family: 'KlingonFont';
+  font-family: 'klingon';
   src: url('klingon.TTF')format('truetype');
 }
 
@@ -20,7 +20,7 @@
 }
 
 .title {
-    font-family: 'KlingonFont';
+    font-family: 'klingon';
     background-color: black;
     color: white;
     font-size: 50px;
