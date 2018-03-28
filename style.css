@@ -1,15 +1,19 @@
 /*
+ * https://www.dafont.com/klingon-blade.font
  * font-family: 'PT Sans Narrow', sans-serif;
  */
 
 @font-face {
-  font-family: KlingonFont;
+  font-family: 'KlingonFont';
   src: url('Klingon.TTF')
 }
 
 .logo {
     width: 100%;
 }
+
+
+/*https://dave-daring.deviantart.com/art/The-Klingon-Empire-416446719*/
 
 .image {
     background-color: black;
