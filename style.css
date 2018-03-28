@@ -5,7 +5,7 @@
 
 @font-face {
   font-family: 'KlingonFont';
-  src: url('klingon.TTF');
+  src: url('klingon.TTF')format('truetype');
 }
 
 .logo {
