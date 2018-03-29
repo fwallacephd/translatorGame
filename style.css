@@ -83,6 +83,22 @@ font-family: 'Poller One', cursive;
     border: black;
 }
 
+.correct, .try-again {
+    background-color: black;
+    color: white;
+}
+
+.correct-klingon, .try-again-klingon {
+    font-family: 'klingon';
+    font-size: 50px;
+    letter-spacing: 3px;
+}
+
+.correct-english, .try-again-english {
+    font-family: 'PT Sans Narrow', sans-serif;
+    font-size: 35px;
+}
+
 .copyright {
     font-family: 'PT Sans Narrow', sans-serif;
     background-color: black;
